@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "*"
+        "guzzlehttp/guzzle": "*",
+        "yandextranslator/yandextranslator": "^1.0"
     },
     "autoload": {
         "psr-4": {

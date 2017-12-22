@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist dastanaron/YandexTranslator "*"
+php composer.phar require --prefer-dist yandextranslator/yandextranslator "*"
 ```
 
 or add
 
 ```
-"dastanaron/YandexTranslator": "*"
+"yandextranslator/yandextranslator": "*"
 ```
 
 to the require section of your `composer.json` file.

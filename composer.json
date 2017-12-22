@@ -1,0 +1,21 @@
+{
+    "name": "yandextranslator/yandextranslator",
+    "description": "is based on the Yandex interpreter. Uses the guzzlle library",
+    "type": "library",
+    "keywords": ["extension"," yandex"," translator"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "dastanaron",
+            "email": "flow199@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dastanaron\\extension\\yandextranslator\\": ""
+        }
+    }
+}
